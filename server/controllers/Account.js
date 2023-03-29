@@ -1,4 +1,3 @@
-const { has } = require('underscore');
 const models = require('../models');
 
 const { Account } = models;
